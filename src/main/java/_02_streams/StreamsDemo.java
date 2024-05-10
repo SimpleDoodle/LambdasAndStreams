@@ -66,7 +66,6 @@ public class StreamsDemo {
          */
         String[] strArr = {"one", "two", "three", "four"};
         Stream<String> arrStream = Arrays.stream(strArr);
-
         List<Integer> intList = new ArrayList<Integer>();
         intList.add(1);
         intList.add(-2);
